@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignMode/Designmode.iml" filepath="$PROJECT_DIR$/DesignMode/Designmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM/MVVM.iml" filepath="$PROJECT_DIR$/MVVM/MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mvp/Mvp.iml" filepath="$PROJECT_DIR$/Mvp/Mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyAndroidNewTec.iml" filepath="$PROJECT_DIR$/StudyAndroidNewTec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dagger2/dagger2.iml" filepath="$PROJECT_DIR$/dagger2/dagger2.iml" />
+    </modules>
+  </component>
+</project>
