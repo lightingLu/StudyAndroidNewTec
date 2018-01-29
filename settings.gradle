@@ -1,1 +1,1 @@
-include ':Mvp', ':DesignMode', ':MVVM', ':dagger2'
+include ':Mvp', ':DesignMode', ':MVVM', ':dagger2', ':mvptest'

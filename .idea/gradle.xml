@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/MVVM" />
             <option value="$PROJECT_DIR$/Mvp" />
             <option value="$PROJECT_DIR$/dagger2" />
+            <option value="$PROJECT_DIR$/mvptest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
