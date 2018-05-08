@@ -3,11 +3,13 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:/software/gradleLocal/gradle-4.1-all/gradle-4.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DesignDemo" />
             <option value="$PROJECT_DIR$/DesignMode" />
             <option value="$PROJECT_DIR$/MVVM" />
             <option value="$PROJECT_DIR$/Mvp" />
