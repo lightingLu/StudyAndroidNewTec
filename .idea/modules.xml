@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesignDemo/designtest.iml" filepath="$PROJECT_DIR$/DesignDemo/designtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignDemo/DesignDemo.iml" filepath="$PROJECT_DIR$/DesignDemo/DesignDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode/DesignMode.iml" />
       <module fileurl="file://F:\StudyAndroidNewTec\DesignMode\Designmode.iml" filepath="F:\StudyAndroidNewTec\DesignMode\Designmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVVM/MVVM.iml" filepath="$PROJECT_DIR$/MVVM/MVVM.iml" />
@@ -13,6 +13,7 @@
       <module fileurl="file://F:\StudyAndroidNewTec\StudyAndroidNewTec.iml" filepath="F:\StudyAndroidNewTec\StudyAndroidNewTec.iml" />
       <module fileurl="file://$PROJECT_DIR$/dagger2/dagger2.iml" filepath="$PROJECT_DIR$/dagger2/dagger2.iml" />
       <module fileurl="file://F:\StudyAndroidNewTec\dagger2\dagger2.iml" filepath="F:\StudyAndroidNewTec\dagger2\dagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignDemo/designtest.iml" filepath="$PROJECT_DIR$/DesignDemo/designtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvptest/mvptest.iml" filepath="$PROJECT_DIR$/mvptest/mvptest.iml" />
     </modules>
   </component>
