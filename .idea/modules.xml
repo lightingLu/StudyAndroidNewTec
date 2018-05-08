@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignDemo/designtest.iml" filepath="$PROJECT_DIR$/DesignDemo/designtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode/DesignMode.iml" />
+      <module fileurl="file://F:\StudyAndroidNewTec\DesignMode\Designmode.iml" filepath="F:\StudyAndroidNewTec\DesignMode\Designmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVVM/MVVM.iml" filepath="$PROJECT_DIR$/MVVM/MVVM.iml" />
+      <module fileurl="file://F:\StudyAndroidNewTec\MVVM\MVVM.iml" filepath="F:\StudyAndroidNewTec\MVVM\MVVM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mvp/Mvp.iml" filepath="$PROJECT_DIR$/Mvp/Mvp.iml" />
+      <module fileurl="file://F:\StudyAndroidNewTec\Mvp\Mvp.iml" filepath="F:\StudyAndroidNewTec\Mvp\Mvp.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyAndroidNewTec.iml" filepath="$PROJECT_DIR$/StudyAndroidNewTec.iml" />
+      <module fileurl="file://F:\StudyAndroidNewTec\StudyAndroidNewTec.iml" filepath="F:\StudyAndroidNewTec\StudyAndroidNewTec.iml" />
       <module fileurl="file://$PROJECT_DIR$/dagger2/dagger2.iml" filepath="$PROJECT_DIR$/dagger2/dagger2.iml" />
+      <module fileurl="file://F:\StudyAndroidNewTec\dagger2\dagger2.iml" filepath="F:\StudyAndroidNewTec\dagger2\dagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvptest/mvptest.iml" filepath="$PROJECT_DIR$/mvptest/mvptest.iml" />
     </modules>
   </component>
 </project>
